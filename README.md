@@ -7,7 +7,8 @@ This Project demonstrates building and hosting a multi-tier web application by f
 
 ## Architecture Overview: 
 
-<img width="865" alt="Screenshot 2025-02-22 at 11 49 42 AM" src="https://github.com/user-attachments/assets/b7efac90-43e0-4192-8389-adaef8d27861" />
+![image](https://github.com/user-attachments/assets/ca06aefd-829a-4040-8d1a-d53112ec807f)
+
 
 ## Project Highlights:
 
