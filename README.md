@@ -50,10 +50,10 @@ The primary goal was to build a multi-tier architecture while following strong s
    
 
 ## Learnings:
-1. Leveraged Various AWS Security Services such as AWS Config, Amazon Inspector, KMS key, Public Certificates, Custom Header setup and understand how security playes the vital role and 
-   identifying the security gaps and fix using various AWS services.
-
-2. Learned how to apply and what security services can be utilized across various layers of the architecture.
+🔹 How to design and implement secure cloud architectures following AWS best practices.
+🔹 How AWS security services like Config, Inspector, and KMS help identify, monitor, and mitigate risks.
+🔹 The importance of encryption, IAM role-based access control, and network isolation across different layers.
+🔹 How to secure data in transit and at rest using SSL/TLS, KMS, and IAM policies.
 
 ## Conclusion:
 This project has been an incredible hands-on learning experience, deepening my expertise in AWS security, architecture design, and compliance management. Building scalable, fault-tolerant, and highly secure applications is critical in the cloud, and I’m excited to apply these learnings to real-world security challenges! 
