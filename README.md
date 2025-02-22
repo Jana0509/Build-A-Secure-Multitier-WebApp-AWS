@@ -46,4 +46,14 @@ This Project demonstrates building and hosting a multi-tier web application by f
    
 12. Route 53:
     * Created the domain in public hosted zone and leveraged Route 53 for the resolving the Ip address from the internet.
+   
+
+## Learnings:
+1. Leveraged Various AWS Security Services such as AWS Config, Amazon Inspector, KMS key, Public Certificates, Custom Header setup and understand how security playes the vital role and 
+   identifying the security gaps and fix using various AWS services.
+
+2. Learned how to apply and what security services can be utilized across various layers of the architecture.
+
+## Conclusion:
+This project has significantly deepened my understanding of building a highly secure multi-tier web application by leveraging various AWS services. I’m excited to continue exploring the potential of AWS in delivering Highly secure solutions.
 
