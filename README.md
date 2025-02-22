@@ -56,5 +56,5 @@ The primary goal was to build a multi-tier architecture while following strong s
 2. Learned how to apply and what security services can be utilized across various layers of the architecture.
 
 ## Conclusion:
-This project has significantly deepened my understanding of building a highly secure multi-tier web application by leveraging various AWS services. I’m excited to continue exploring the potential of AWS in delivering Highly secure solutions.
+This project has been an incredible hands-on learning experience, deepening my expertise in AWS security, architecture design, and compliance management. Building scalable, fault-tolerant, and highly secure applications is critical in the cloud, and I’m excited to apply these learnings to real-world security challenges! 
 
